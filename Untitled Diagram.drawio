@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T09:53:41.228Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="7v7suVbHOYVRnDV4MIma" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T10:04:13.903Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36 SE 2.X MetaSr 1.0" etag="3Pj2VBnDv8fO7gB6ZzLG" version="14.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="858" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,6 +173,54 @@
         </mxCell>
         <mxCell id="6UupY6SGxDUpPimC8WvN-30" value="搜索资源" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="2131" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6UupY6SGxDUpPimC8WvN-34" target="6UupY6SGxDUpPimC8WvN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6UupY6SGxDUpPimC8WvN-34" target="6UupY6SGxDUpPimC8WvN-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6UupY6SGxDUpPimC8WvN-34" target="6UupY6SGxDUpPimC8WvN-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6UupY6SGxDUpPimC8WvN-34" target="6UupY6SGxDUpPimC8WvN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-34" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="2381" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-35" value="查看点赞消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="2381" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-36" value="查看关注消息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="2310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-37" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;查看评论消息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="2461" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-38" value="进行私聊" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="2540" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6UupY6SGxDUpPimC8WvN-44" target="6UupY6SGxDUpPimC8WvN-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6UupY6SGxDUpPimC8WvN-44" target="6UupY6SGxDUpPimC8WvN-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6UupY6SGxDUpPimC8WvN-44" target="6UupY6SGxDUpPimC8WvN-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-44" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="2711" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-45" value="查看聊天信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="2711" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-46" value="创建聊天" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="2640" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6UupY6SGxDUpPimC8WvN-47" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;发送聊天信息&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="2791" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
